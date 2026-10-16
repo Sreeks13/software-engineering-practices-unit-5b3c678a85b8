@@ -1,0 +1,5 @@
+NorthField|100|20|5
+SouthField|80|10|4
+EastField|50|0|3
+|40|10|2
+WestField|60|15|3
